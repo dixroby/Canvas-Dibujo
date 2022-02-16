@@ -1,0 +1,19 @@
+body {
+  background: rgb(37, 77, 92);
+  display: grid;
+  box-sizing: content-box;
+}
+
+#root {
+  margin: 0 auto;
+}
+
+.title {
+  margin: auto;
+  color: white;
+  text-align: center;
+}
+
+.title :hover {
+  color: greeN;
+}
