@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Canvas-Dibujo/static/css/main.af24b525.chunk.css",
+    "main.js": "/Canvas-Dibujo/static/js/main.216509ce.chunk.js",
+    "main.js.map": "/Canvas-Dibujo/static/js/main.216509ce.chunk.js.map",
+    "runtime-main.js": "/Canvas-Dibujo/static/js/runtime-main.c6055d6c.js",
+    "runtime-main.js.map": "/Canvas-Dibujo/static/js/runtime-main.c6055d6c.js.map",
+    "static/js/2.255ba09c.chunk.js": "/Canvas-Dibujo/static/js/2.255ba09c.chunk.js",
+    "static/js/2.255ba09c.chunk.js.map": "/Canvas-Dibujo/static/js/2.255ba09c.chunk.js.map",
+    "index.html": "/Canvas-Dibujo/index.html",
+    "static/css/main.af24b525.chunk.css.map": "/Canvas-Dibujo/static/css/main.af24b525.chunk.css.map",
+    "static/js/2.255ba09c.chunk.js.LICENSE.txt": "/Canvas-Dibujo/static/js/2.255ba09c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6055d6c.js",
+    "static/js/2.255ba09c.chunk.js",
+    "static/css/main.af24b525.chunk.css",
+    "static/js/main.216509ce.chunk.js"
+  ]
+}
